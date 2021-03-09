@@ -2,7 +2,7 @@
 I presented how I conceptualized, wrote, and analyzed my paper.
 
 ## Paper "Associations between depression and parenting of fathers in Head Start and parental self-efficacy as a protective factor"
-- Download the pdf from github 
+- Download the pdf "Associations between depression and parenting of fathers in Head Start and parental self-efficacy as a protective factor.pdf"
 - Article is published in [Child and Youth Services Review](https://doi.org/10.1016/j.childyouth.2020.105758)
 
 ## Presentation slides
