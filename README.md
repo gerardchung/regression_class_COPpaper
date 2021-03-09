@@ -2,7 +2,7 @@
 
 ## Paper "Associations between depression and parenting of fathers in Head Start and parental self-efficacy as a protective factor" published in Child and Youth Service Journal
 - Download the pdf from github 
-- Article is published in [Child and Youth Services Review] (https://doi.org/10.1016/j.childyouth.2020.105758)
+- Article is published in [Child and Youth Services Review](https://doi.org/10.1016/j.childyouth.2020.105758)
 
 
 ## STATA codes
