@@ -11,7 +11,7 @@ I presented how I conceptualized, wrote, and analyzed my paper.
 
 ## STATA codes
 - an_regression_class.do
-- copy and paste the codes into your STATA do-file editor
+- Click "raw", and then copy and paste the codes into your STATA do-file editor
 
 ## Excel results
 - see "cop_p2_dep_results_v2.xlsx"
