@@ -6,7 +6,7 @@ I presented how I conceptualized, wrote, and analyzed my paper.
 - Article is published in [Child and Youth Services Review](https://doi.org/10.1016/j.childyouth.2020.105758)
 
 ## Presentation slides
-- link to [slidebean](https://app.slidebean.com/p/u5u73ksxxs/reg-presentation-cop-paper-pse-depression-fathers) 
+- View on [slidebean](https://app.slidebean.com/p/u5u73ksxxs/reg-presentation-cop-paper-pse-depression-fathers) [Recommended]
 - Download pdf "presentation.pdf": note that it is 7MB!
 
 ## STATA codes
