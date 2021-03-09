@@ -1,7 +1,9 @@
 # Files and Codes for Regression Class UNC 10th March 2021
 
 ## Paper "Associations between depression and parenting of fathers in Head Start and parental self-efficacy as a protective factor" published in Child and Youth Service Journal
-- Download the pdf
+- Download the pdf from github 
+- Article is published in [Child and Youth Services Review] (https://doi.org/10.1016/j.childyouth.2020.105758)
+
 
 ## STATA codes
 - an_regression_class.do
