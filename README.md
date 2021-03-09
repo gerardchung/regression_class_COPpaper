@@ -4,6 +4,9 @@
 - Download the pdf from github 
 - Article is published in [Child and Youth Services Review](https://doi.org/10.1016/j.childyouth.2020.105758)
 
+## Presentation slides
+- link to [slidebean](https://app.slidebean.com/p/u5u73ksxxs/reg-presentation-cop-paper-pse-depression-fathers) 
+- Download pdf "presentation.pdf": note that it is 7MB!
 
 ## STATA codes
 - an_regression_class.do
@@ -14,7 +17,7 @@
 
 ## R-codes to create Wordcloud and Reactables
 - paper_moderation_regressionclass_gerard.Rproj [project]
-- wordclouds_cop.R
-- cop_regression_class.R 
+- wordclouds_cop.R -> create the wordclous
+- cop_regression_class.R -> create the reactable tables for sociodemographics
 
 
